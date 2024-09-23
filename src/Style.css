@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "fgs";
+  src: url(./font//FoundersGrotesk-Semibold.woff) format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NM";
+  src: url(./font/NeueMontreal-Regular.ttf);
+}
+
+
+
+
+.animate{
+  transition: all 150ms ease-in;
+}
+
+&::-webkit-scrollbar {
+  width: 8px;
+}
+
+&::-webkit-scrollbar-thumb {
+  background-color: #000000;
+}
+
+&::-webkit-scrollbar-track {
+  background-color: #ffffff;
+}

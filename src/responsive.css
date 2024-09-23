@@ -1,0 +1,197 @@
+@media screen and (max-width:770px){
+    .nav-fst-div{
+    padding-left: 3rem  !important;
+    padding-right: 3rem !important;
+    }
+
+    .lw-div{
+    padding-left: 3rem  !important;
+    padding-right: 3rem !important;
+
+    }
+    
+    .tb-flex{
+        flex-direction: column;
+        
+    }
+
+    .lower-about-tb{
+        width: 100%;
+    }
+
+    .lower-about-tb>div{
+        width: 100%;
+    }
+
+    .lower-about-tb>div>button{
+        height: 10vw;
+        width: 24vw;
+    }
+
+    .tb-flex-dir{
+        flex-direction: column;
+    }
+    .tb-flex-dir>div{
+        width: 100%;
+    }
+    .cardContainer{
+        height: 53vh;
+    }
+
+    .animation-off{
+        display: none;
+    }
+
+    .cards{
+        flex-direction: column;
+    }
+    .cards>div{
+        width: 100%;
+        
+    }
+
+    .button_page{
+        width: 35vw;
+        height: 10vw;
+    }
+
+    .card_page{
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .card_page>div{
+        width: 100%;
+    }
+
+    .cardContainerss>div>img{
+        height: 20vw;
+    }
+    .featured_img_height>img{
+        height: 100%;
+    }
+
+    
+    .ready_height{
+        height: 45vh;
+    }
+
+    .buttons>button{
+        width: 32vw;
+        height: 10vw;
+    }
+
+    .footer{
+        height: 50vh;
+    }
+
+}
+
+
+
+@media screen and (max-width:650px){
+
+.nav-fst-div:nth-child(2){
+    flex-direction: column;
+}
+
+.links{
+    flex-direction: column;
+    height: 0px;
+    opacity: 0;
+    margin-top: 10vw;
+
+}
+.lw-div{
+    gap: 1vw;
+}
+.tb-flex{}
+.lower-about-tb{}
+.lower-about-tb>div{}
+.lower-about-tb>div>button{}
+.tb-flex-dir{}
+.tb-flex-dir>div{}
+.cardContainer{}
+.animation-off{}
+.cards{}
+.cards>div{}
+.button_page{}
+.card_page{}
+.card_page>div{}
+.cardContainerss>div>img{}
+.featured_img_height>img{}
+.ready_height{}
+.buttons>button{}
+.footer{}
+
+    
+}
+
+
+
+
+@media screen and (max-width:450px){
+    .nav-fst-div, .lw-div-landing_page,.lw-div-landing,.lw-div1,.f1{
+        padding-left: 5vw  !important;
+        padding-right: 5vw !important;
+        }
+
+    .app-main_page {
+    
+
+    }
+
+    .masker{
+        font-size: 3vw;
+    }
+    
+    .links{
+        flex-direction: column;
+        height: 0px;
+        opacity: 0;
+        margin-top: 10vw;
+    
+    }
+    .lw-div-landing{
+        flex-direction: column;
+        gap: 3vw;
+        justify-content: start;
+        align-items: start;
+
+    }
+    
+    .lw-div2{
+        padding: 3vw;
+        height: 100vh;
+        gap: 5vw;
+    }
+    .lw-div3{
+        padding: 3vw;
+        height: 100vh;
+        gap: 5vw;
+    }
+    .tb-flex{}
+    .lower-about-tb{}
+    .lower-about-tb>div{}
+    .lower-about-tb>div>button{}
+    .tb-flex-dir{}
+    .tb-flex-dir>div{}
+    .cardContainer{}
+    .animation-off{}
+    .cards{}
+    .cards>div{}
+    .button_page{}
+    .card_page{}
+    .card_page>div{}
+    .cardContainerss>div>img{}
+    .featured_img_height>img{}
+    .ready_height{}
+    .buttons>button{}
+    .footer{}
+    
+        
+    }
+    
+    
+    
+    
